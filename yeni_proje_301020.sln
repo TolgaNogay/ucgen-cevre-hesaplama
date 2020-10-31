@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yeni_proje_301020", "yeni_proje_301020\yeni_proje_301020.csproj", "{CAB77267-D72E-427E-A0AF-DE156FC34AD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB77267-D72E-427E-A0AF-DE156FC34AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB77267-D72E-427E-A0AF-DE156FC34AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB77267-D72E-427E-A0AF-DE156FC34AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB77267-D72E-427E-A0AF-DE156FC34AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68EF3645-A0D6-4F9D-B340-F7E699F19CCC}
+	EndGlobalSection
+EndGlobal

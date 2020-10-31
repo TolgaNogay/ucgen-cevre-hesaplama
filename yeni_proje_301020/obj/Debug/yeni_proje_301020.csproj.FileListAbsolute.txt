@@ -1,0 +1,10 @@
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\obj\Debug\yeni_proje_301020.csprojAssemblyReference.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\obj\Debug\yeni_proje_301020.Form1.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\obj\Debug\yeni_proje_301020.Properties.Resources.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\obj\Debug\yeni_proje_301020.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\obj\Debug\yeni_proje_301020.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\bin\Debug\yeni_proje_301020.exe.config
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\bin\Debug\yeni_proje_301020.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\bin\Debug\yeni_proje_301020.pdb
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\obj\Debug\yeni_proje_301020.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\source\repos\yeni_proje_301020\yeni_proje_301020\obj\Debug\yeni_proje_301020.pdb
